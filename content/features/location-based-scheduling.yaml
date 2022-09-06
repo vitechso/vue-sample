@@ -1,0 +1,8 @@
+identifier: location-based-scheduling
+heading: Location based scheduling.
+image:
+  component: true
+  value: features-location-based-scheduling-image
+paragraphs:
+  - Have you ever booked a client and wondered if there were any clients nearby so you could schedule them right after? Now you can with our map-based scheduling system. You'll see your clients on a map and how long it's been since their last groom so you can reach out to them and book an appointment!
+faqs: []

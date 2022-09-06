@@ -1,0 +1,15 @@
+identifier: booking-styles
+heading: A booking style for everyone.
+image:
+  component: true
+  value: features-booking-styles-image
+paragraphs:
+  - Some people like to see blocks, others like maps, and even some like slots. We have every style but doggie.
+  - Slots are geared towards the fast-paced busy shop. Make sure you don’t overbook a groomer at a specific time. This works really well with online booking.
+  - Blocks are good for customers that like to visualize appointment times, durations, and have lots of pet photos.
+  - Maps are specialized for mobile groomers helping you schedule efficiently.
+faqs:
+  - question: Can I switch between different styles?
+    answer: Absolutely, in fact it’s one tap away at any time.
+  - question: Can I use block or slot scheduling even if I’m a mobile groomer?
+    answer: Yes. And we think you will find it a great compliment to your map!

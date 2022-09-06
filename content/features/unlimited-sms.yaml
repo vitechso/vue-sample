@@ -1,0 +1,15 @@
+identifier: unlimited-sms
+heading: Unlimited SMS messages.
+image:
+  component: true
+  value: features-unlimited-sms-image
+paragraphs:
+  - Never worry if your pet parent has an app installed or is on your website.
+  - You can send direct sms messages from a real phone number directly to their phone. Like you’re BFFs.
+faqs:
+  - question: Is it really unlimited?
+    answer: We’re as loyal as man’s best friend. We mean it.
+  - question: What phone number do I use?
+    answer: You’ll receive a phone number from us that is totally separate from your personal cell.
+  - question: Will clients have my personal phone number?
+    answer: Absolutely not, unless you choose to give it out... weirdo.

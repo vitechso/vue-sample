@@ -1,0 +1,12 @@
+identifier: square
+heading: Square + Groomer.io
+image:
+  component: true
+  value: features-square-image
+paragraphs:
+  - Like a dog buries his bone for later, you can save a client's card on file to conveniently charge them, contact-free, later.
+faqs:
+  - question: How do you keep credit card information secure?
+    answer: This feature is powered by Square.
+  - question: How do I collect card information?
+    answer: Clients can enter it when booking or requesting an appointment or from their client portal. You can even enter it for them directly on your device. Bow wow that's cool!

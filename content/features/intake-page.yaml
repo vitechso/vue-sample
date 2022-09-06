@@ -1,0 +1,15 @@
+identifier: intake-page
+heading: Intake Page
+image:
+  component: true
+  value: features-online-booking-image
+paragraphs:
+  - Collect client details without the hassle. You know how it goes; what's your name, phone number, dog's name, breed, weight. Do you have a vaccination record? Might as well get social security number and mother's maiden name while we're at it.
+  - Stop all the back and forth, save time for you and your team! Give your clients a website to enter all their data without sacrificing data accuracy or control.
+faqs:
+  - question: What if clients fill out my intake page, but I don't want them as a client.
+    answer: You can toggle our auto accept feature. This allows you to review submissions before accepting the client.
+  - question: What if I'm a mobile groomer and clients outside of my service area fill out my form?
+    answer: Service areas are built right into intake pages. Setup your service areas and let the intake page be your guard dog.
+  - question: Can I require that clients enter their pet's breed?
+    answer: Intake pages are highly customizable. You can all of the pet details or none at all.

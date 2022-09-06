@@ -1,0 +1,11 @@
+identifier: online-requesting
+heading: Online requesting.
+image:
+  component: true
+  value: features-online-requesting-image
+paragraphs:
+  - For many, it’s better to let a customer leave their information or simply ping you, letting you know they would like an appointment.
+  - Different from online booking, requesting does not put an appointment on the books, but rather leaves you a reminder to schedule this client at your convenience.
+faqs:
+  - question: Do I use one or the other, requesting or booking?
+    answer: Yes, you want to pick the style that works best for you.

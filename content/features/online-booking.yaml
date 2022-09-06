@@ -1,0 +1,13 @@
+identifier: online-booking
+heading: Online booking.
+image:
+  component: true
+  value: features-online-booking-image
+paragraphs:
+  - For hair salon businesses this is easy, for dog grooming shops, it’s ruff. We’ve done the hard work.
+  - Ensure employees are scheduled for their qualified services. We’ll ensure bathers are set for baths and groomers and grooms. All appointments are pending approval, so clients never overbook.
+faqs:
+  - question: What if this sounds like a terrible idea to me?
+    answer: Many groomers say the same thing, and we know it can be frustrating having a doodle scheduled at the last hour of the day. That’s why we built schedule request forms.
+  - question: What if clients book a day I’m closed?
+    answer: Groomer.io offers many ways to create black out days so this never occurs.

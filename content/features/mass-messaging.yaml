@@ -1,0 +1,13 @@
+identifier: mass-messaging
+heading: Mass Messaging - Chat with all your pups at once!
+image:
+  component: true
+  value: features-mass-messaging-image
+paragraphs:
+  - Bark out loud, let all your clients hear what you have to say, or just a select few. You choose. In fact, clients that use mass messaging for marketing purposes see an average of $400 in new bookings.
+  - That is something to bark about.
+faqs:
+  - question: Is this only for marketing?
+    answer: No, we have clients that use this feature just to notify clients of building construction during the weekend.
+  - question: Is there a limit on how many I can send?
+    answer: You are only limited by the pet parents you have.

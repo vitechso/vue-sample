@@ -1,0 +1,15 @@
+identifier: ready-for-pickup
+heading: Ready for pickup phone call.
+image:
+  component: true
+  value: features-ready-for-pickup-image
+paragraphs:
+  - Sending a text is too easy. Such an important message deserves a much more personal touch.
+  - Record your own voice once and send it to your clients when their pet is ready.
+faqs:
+  - question: Does this cost extra?
+    answer: 'No'
+  - question: What phone number is used?
+    answer: The phone number on their caller ID will be your shop’s phone number so they will know who it is.
+  - question: What if they don’t answer?
+    answer: A voicemail will be left and an SMS message is sent.

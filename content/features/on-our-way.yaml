@@ -1,0 +1,10 @@
+identifier: on-our-way
+heading: On our way message.
+image:
+  component: true
+  value: features-on-our-way-image
+paragraphs:
+  - Send an automated phone call to your clients when you are on your way to their home. Avoid wasted time when a client forgets about their appointment. Give them time to come back home to meet you.
+faqs:
+  - question: What if the system sends out the message when I wasn't actually on my way?
+    answer: The system will prompt you to send the message so you are always in control.
